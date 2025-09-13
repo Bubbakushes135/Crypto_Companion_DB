@@ -30,7 +30,7 @@
     "create:mongo": "docker run -p 27017:27017 --name mongo-nest -d mongo:4"
   },
   "dependencies": {
-    "@nestjs/common": "^6.7.2",
+    "@nestjs/common": "^11.1.6",
     "@nestjs/core": "^6.7.2",
     "@nestjs/jwt": "^6.1.1",
     "@nestjs/passport": "^6.1.0",
