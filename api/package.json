@@ -60,7 +60,7 @@
     "path": "^0.12.7",
     "rxjs": "^6.5.3",
     "swagger-ui-express": "^4.1.1",
-    "typeorm": "^0.2.19",
+    "typeorm": "^0.3.26",
     "typescript": "^4.1.5",
     "truffle-hdwallet-provider": "0.0.6",
     "web3": "^1.2.0",
